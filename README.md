@@ -1,5 +1,5 @@
 # Guia-de-Java
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/deniseflora/Guia-de-Java)
 ![GitHub](https://img.shields.io/github/license/deniseflora/Guia-de-Java)
