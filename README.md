@@ -4,8 +4,16 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/deniseflora/Guia-de-Java)
 ![GitHub](https://img.shields.io/github/license/deniseflora/Guia-de-Java)
 
-Um Tutorial para Iniciantes
+##Um Tutorial para Iniciantes
 
+###Introdução à Linguagem Java
+
+:pencil1.Definição
+2.História de Java
+3.Configurando o Ambiente de Desenvolvimento
+4.Instalando o Java Development Kit (JDK)
+5.Configurando o ambiente de desenvolvimento (IDE)
+6.Sintaxe Básica em Java
 
 
 
