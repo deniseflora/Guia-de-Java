@@ -8,7 +8,7 @@
 
 ### Introdução a Linguagem Java
 
-📖: 1. Definição [Definição](1. Definição)  
+📖: 1. Definição *[Definição](1. Definição)  
 
 🏛️: 2. História de Java
 
