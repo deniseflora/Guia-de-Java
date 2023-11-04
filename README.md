@@ -8,12 +8,12 @@
 
 ### Introdução à Linguagem Java
 
-:pencil 1.Definição
-2.História de Java
-3.Configurando o Ambiente de Desenvolvimento
-4.Instalando o Java Development Kit (JDK)
-5.Configurando o ambiente de desenvolvimento (IDE)
-6.Sintaxe Básica em Java
+:pencil: 1. Definição
+:pencil: 2. História de Java
+3. Configurando o Ambiente de Desenvolvimento
+4. Instalando o Java Development Kit (JDK)
+5. Configurando o ambiente de desenvolvimento (IDE)
+6. Sintaxe Básica em Java
 
 
 
