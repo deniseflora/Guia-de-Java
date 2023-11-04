@@ -6,9 +6,9 @@
 
 ## Um Tutorial para Iniciantes
 
-### Introdução à Linguagem Java
+### Introdução a Linguagem Java
 
-📖: 1. Definição  
+📖: 1. Definição<pagina 1>  
 
 🏛️: 2. História de Java
 
