@@ -20,9 +20,9 @@
 
 📚:6.  [Fundamentos](#id6)
 
-🔖:7.  [Sintaxe Básica em Java](id#7)
+🔖: 7. [Sintaxe Básica em Java](#id7)
 
-🚀: 8. [Identificadores](id#8)
+🚀: 8. [Identificadores](#id8)
 
 🔑: 9. [Palavras-chave](id#9) 
 
