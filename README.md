@@ -12,13 +12,11 @@
 
 🏛️: 2. [História](#id2)
 
-💻: 3. [Configurando o Ambiente de Desenvolvimento](#id3)
- 
-🍵: 4. [Instalando o Java Development Kit (JDK)](#id4)
+🍵: 3. [Instalando o Java Development Kit (JDK)](#id3)
+
+💻: 4. [Configurando o Ambiente de Desenvolvimento](#id4)
   
-🛠️: 5. [Configurando o ambiente de desenvolvimento (IDE)](#id5)
-   
-🖋️: 6. [Sintaxe Básica em Java](id#6)
+🖋️: 5. [Sintaxe Básica em Java](id#6)
 
 <div id='id1' />
 
@@ -35,7 +33,25 @@ Java é uma linguagem independente de plataforma e orientada a objetos que é am
 **Aquisição pela Oracle (2010):** Em 2010, a Oracle Corporation adquiriu a Sun Microsystems, tornando-se a proprietária oficial da linguagem Java.
 **Lançamento de versões (periódicas):** A Oracle continuou a desenvolver e lançar novas versões do Java regularmente, trazendo melhorias de desempenho, segurança e funcionalidade. As versões notáveis incluem o Java 5 (com recursos como generics), o Java 8 (com lambdas e a Stream API), o Java 11 (que marcou o início do suporte de longo prazo) e muitas outras versões subsequentes.
 
+<div id='id3' />
+
+## Instalando o Java Development Kit (JDK)
+Instalação do JDK (Java Development Kit): O JDK é composto de ferramentas de software para desenvolver aplicações em Java. A instalação do JDK, no ambiente de desenvolvimento, é feita através do download do sotware utilizando a plataforma da Oracle, seguindo as intruções para cada sistema operacional.
+
+<div id='id4' />
+ 
+## Configurando o Ambiente de Desenvolvimento
+Configuração do ambiente: Após a instalação, é necessário configurar as variáveis de ambiente. No Windows, vá em "Painel de Controle" > "Sistema" > "Configurações Avançadas do Sistema" > "Variáveis de Ambiente" e adicione o caminho para o diretório bin do JDK na variável PATH. No Linux ou macOS, você pode configurar o PATH no arquivo ~/.bashrc ou ~/.bash_profile.
+
+Verifique a instalação: Abra um terminal ou prompt de comando e digite java -version e javac -version para verificar se a instalação foi bem-sucedida.
+
+<div id='id5' />
+ 
+## Sintaxe Básica em Java
 
 
+### Referências
+
+1.[A Brief History of Java Programming Language](https://www.theknowledgeacademy.com/)
 
 
