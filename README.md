@@ -18,15 +18,15 @@
   
 🖋️: 5. [Editores Java](#id5)
 
-📚:6. [Fundamentos](id#6)
+📚:6.  [Fundamentos](#id6)
 
-🔖:7. [Sintaxe Básica em Java](id#7)
+🔖:7.  [Sintaxe Básica em Java](id#7)
 
 🚀: 8. [Identificadores](id#8)
 
 🔑: 9. [Palavras-chave](id#9) 
 
-⬅️: 10. [Comentários em Java](id#10) 
+⬅️: 10.[Comentários em Java](id#10) 
 
 <div id='id1' />
   
