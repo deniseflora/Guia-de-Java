@@ -8,18 +8,17 @@
 
 ### Introdução a Linguagem Java
 
-📖: 1. Definição * [Definição](1. Definição)  
+📖: 1. [Definição](#id1)  
 
-🏛️: 2. História de Java
+🏛️: 2. [História](#id2)
 
-💻: 3. Configurando o Ambiente de Desenvolvimento
+💻: 3. [Configurando o Ambiente de Desenvolvimento](#id3)
  
-🍵: 4. Instalando o Java Development Kit (JDK)
+🍵: 4. [Instalando o Java Development Kit (JDK)](#id4)
   
 🛠️: 5. Configurando o ambiente de desenvolvimento (IDE)
    
 🖋️: 6. Sintaxe Básica em Java
-
 
 
 
