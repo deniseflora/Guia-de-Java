@@ -8,7 +8,8 @@
 
 ### Introdução a Linguagem Java
 
-📖: 1. [Definição](#id1)  
+📖: 1. [Definição](#id1)
+Definição<definicao="id1"></a>
 
 🏛️: 2. [História](#id2)
 
@@ -16,9 +17,9 @@
  
 🍵: 4. [Instalando o Java Development Kit (JDK)](#id4)
   
-🛠️: 5. Configurando o ambiente de desenvolvimento (IDE)
+🛠️: 5. [Configurando o ambiente de desenvolvimento (IDE)](#id5)
    
-🖋️: 6. Sintaxe Básica em Java
+🖋️: 6. [Sintaxe Básica em Java](id#6)
 
 
 
