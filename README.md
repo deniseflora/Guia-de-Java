@@ -45,7 +45,7 @@ Configuração do ambiente: Após a instalação, é necessário configurar as v
 
 Verifique a instalação: Abra um terminal ou prompt de comando e digite java -version e javac -version para verificar se a instalação foi bem-sucedida.
 ## 5. Fundamentos
-| **Fundamentos**                                                                                               | 
+|                                                                                              | 
 | ----------------------------------------------------------------------------------------------------------------| 
 | 1. **Plataforma Java**: Consiste em duas partes principais –  o kit de desenvolvimento Java (JDK) necessário para desenvolver aplicativos Java, e o o ambiente de tempo de execução Java (JRE). O JRE é responsável por executar aplicativos Java.   | 
 |  2. **Pacote**: Os pacotes são o mecanismo usado para agrupar classes relacionadas em Java. Eles são usados para organizar melhor o código e evitar conflitos de nome.  | 
@@ -57,14 +57,14 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 <div id='id5' />
 
 ### 6. Editores Java 
-**IDE ou Ambiente de Desenvolvimento Integrado** , fornece  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEs estão descritos abaixo:
+**IDE ou Ambiente de Desenvolvimento Integrado**: fornece  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEs estão descritos abaixo:
 - **Bloco de notas** -O Notepad (Bloco de notas) é um editor de texto simples incluído no  Microsoft Windows. 
 - **Netbeans** − É um IDE Java de código aberto e gratuito que pode ser baixado do www.netbeans.org/index.html.
 - **Eclipse** − É um IDE Java desenvolvido pela comunidade de código aberto Eclipse e pode ser baixado do www.eclipse.org.
 - **VSCode** : utilizado para editar códigos de desenvolvimento para aplicações web, o download do site é no endereço https://code.visualstudio.com.
  ## 7.Sintaxe Básica
  
-| **Sintaxe Java**  |
+| |
 | -----------------------------|
 | **Diferenciação de maiúsculas e minúsculas** − Java diferencia maiúsculas de minúsculas.  |
 | **Nomes de classe** − a primeira letra deve estar em maiúsculas. Se várias palavras forem usadas para formar um nome da classe, a primeira letra de cada palavra interna deve estar em maiúsculas.Exemplo: PrimeiroPrograma  |
@@ -76,7 +76,7 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 Todos os componentes Java requerem nomes. Os nomes usados para classes, variáveis e métodos são chamados de identificadores.
 Em Java, há vários pontos a serem lembrados sobre identificadores. 
 
-|Identificadores                                                                   |
+|                                                                 |
 |----------------------------------------------------------------------------|
 | - Devem começar com uma letra (A a Z ou a a z), caractere de moeda ($) ou um sublinhado (_).  |
 | - Após o primeiro caractere, os identificadores podem ter qualquer combinação de caracteres.  |
