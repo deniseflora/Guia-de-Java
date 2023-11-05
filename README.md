@@ -84,9 +84,9 @@ Em Java, há vários pontos a serem lembrados sobre identificadores.
 | - Diferenciam maiúsculas de minúsculas. |
 
  ## 9. Palavras-chave 
-São os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  São elas:
-abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,  
-double, else, enum, extends, final, finally, float, for, goto, if, implements, import, int,interface, long, native, new, null, package, private, protected, public, return, short, static,	strictfp, super, switch, synchronized, this, throw, transient, try, void, volatile, while  
+São os **identificadores** que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  São elas:
+`` abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,  
+double, else, enum, extends, final, finally, float, for, goto, if, implements, import, int,interface, long, native, new, null, package, private, protected, public, return, short, static,	strictfp, super, switch, synchronized, this, throw, transient, try, void, volatile, while  .``
 
 
 ## 10. Comentários em Java
