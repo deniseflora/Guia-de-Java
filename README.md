@@ -63,14 +63,14 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 - **Eclipse** − É um IDE Java desenvolvido pela comunidade de código aberto Eclipse e pode ser baixado do www.eclipse.org.
 - **VSCode** : utilizado para editar códigos de desenvolvimento para aplicações web, o download do site é no endereço https://code.visualstudio.com.
  
-## Sintaxe Básica em Java
+| ## Sintaxe Básica em Java  |
 A sintaxe é o conjunto de regras que definem como um programa  é escrito e interpretado.
-
-**Diferenciação de maiúsculas e minúsculas** − Java diferencia maiúsculas de minúsculas.
-**Nomes de classe** − a primeira letra deve estar em maiúsculas. Se várias palavras forem usadas para formar um nome da classe, a primeira letra de cada palavra interna deve estar em maiúsculas.Exemplo: PrimeiroPrograma
-**Nomes de método** − Todos os nomes de método devem começar com uma letra minúscula. Se várias palavras forem usadas para formar o nome do método, a primeira letra de cada palavra interna deve estar em maiúsculas. Exemplo: public void myMethodName()
-**Nome do arquivo do programa** −  deve corresponder exatamente ao nome da classe.Exemplo: Suponha que 'PrimeiroPrograma' é o nome da classe. Em seguida, o arquivo deve ser salvo como 'PrimeiroPrograma.java'
-**public static void main(String args[])** − O processamento do programa Java começa a partir do método main() que é uma parte obrigatória de todo programa Java.
+| -----------------------------|
+| **Diferenciação de maiúsculas e minúsculas** − Java diferencia maiúsculas de minúsculas.  |
+| **Nomes de classe** − a primeira letra deve estar em maiúsculas. Se várias palavras forem usadas para formar um nome da classe, a primeira letra de cada palavra interna deve estar em maiúsculas.Exemplo: PrimeiroPrograma  |
+| **Nomes de método** − Todos os nomes de método devem começar com uma letra minúscula. Se várias palavras forem usadas para formar o nome do método, a primeira letra de cada palavra interna deve estar em maiúsculas. Exemplo: public void myMethodName(). |
+| **Nome do arquivo do programa** −  deve corresponder exatamente ao nome da classe.Exemplo: Suponha que 'PrimeiroPrograma' é o nome da classe. Em seguida, o arquivo deve ser salvo como 'PrimeiroPrograma.java'.|
+| **public static void main(String args[])** − O processamento do programa Java começa a partir do método main() que é uma parte obrigatória de todo programa Java.|
 
 
 1.Palavras-chave: são os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  
