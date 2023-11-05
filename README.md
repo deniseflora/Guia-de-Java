@@ -62,9 +62,9 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
 <div id='id5' />
   
-## 5. Editores Java  
+## 5. Editores Java
 
-Os editores, IDE ou Ambiente de Desenvolvimento Integrado fornecem  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais estão descritos abaixo:
+Os editores Java, IDE ou Ambiente de Desenvolvimento Integrado fornecem  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais estão descritos abaixo:
 
 - **Bloco de notas** -O Notepad (Bloco de notas) é um editor de texto simples incluído no  Microsoft Windows. 
 - **Netbeans** − É um IDE Java de código aberto e gratuito que pode ser baixado do www.netbeans.org/index.html.
