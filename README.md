@@ -51,10 +51,8 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 |  2. **Pacote**: Os pacotes são o mecanismo usado para agrupar classes relacionadas em Java. Eles são usados para organizar melhor o código e evitar conflitos de nome.  | 
 |  3. **Classe**: A classe é a unidade básica de programação em Java. Ela é usada como um modelo para criar objetos. Cada classe contém atributos (variáveis) e métodos (funções).   | 
 |  4. **Objeto**: É uma instância de uma classe. A criação de um objeto envolve a alocação de memória para esse objeto.   | 
-
-|5. **Herança**: A herança é um recurso em Java que permite que uma classe (chamada de classe filha ou subclass) herde propriedades e comportamentos de outra classe (chamada de classe pai ou superclass). Isso ajuda a economizar tempo e esforço do desenvolvedor na criação de classes.|
-
-|6. **Polimorfismo**: É uma característica que permite que um objeto se comporte de várias maneiras. Isso é realizado usando métodos com o mesmo nome, mas com diferentes parâmetros.|
+| 5. **Herança**: A herança é um recurso em Java que permite que uma classe (chamada de classe filha ou subclass) herde propriedades e comportamentos de outra classe (chamada de classe pai ou superclass). Isso ajuda a economizar tempo e esforço do desenvolvedor na criação de classes.  |
+| 6. **Polimorfismo**: É uma característica que permite que um objeto se comporte de várias maneiras. Isso é realizado usando métodos com o mesmo nome, mas com diferentes parâmetros.  |
 
 <div id='id5' />
 
