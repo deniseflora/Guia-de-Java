@@ -45,30 +45,35 @@ Configuração do ambiente: Após a instalação, é necessário configurar as v
 
 Verifique a instalação: Abra um terminal ou prompt de comando e digite java -version e javac -version para verificar se a instalação foi bem-sucedida.
 
-Componentes do Java:
-JDK (Java Development Kit) - utilitários que permitem criar sistemas de software para a plataforma Java. É composto por compilador e bibliotecas.Inclui o JRE, o JVM, um conjunto de classes de API, compilador Java e arquivos necessários para criar aplicações.
-JVM (Java Virtual Machine) - é a Máquina Virtual do Java 
-JRE (Java Runtime Environment) -  ambiente em que a máquina virtual java é executada. O JRE contém JVM (Java Virtual Machine), bibliotecas de classes e outros arquivos.
+| **Fundamentos**                                                                                               | 
+| ----------------------------------------------------------------------------------------------------------------| 
+| 1. **Plataforma Java**: Consiste em duas partes principais –  o kit de desenvolvimento Java (JDK) necessário para desenvolver aplicativos Java, e o o ambiente de tempo de execução Java (JRE). O JRE é responsável por executar aplicativos Java.   | 
+|  2. **Pacote**: Os pacotes são o mecanismo usado para agrupar classes relacionadas em Java. Eles são usados para organizar melhor o código e evitar conflitos de nome.  | 
+|  3. **Classe**: A classe é a unidade básica de programação em Java. Ela é usada como um modelo para criar objetos. Cada classe contém atributos (variáveis) e métodos (funções).   | 
+|  4. **Objeto**: É uma instância de uma classe. A criação de um objeto envolve a alocação de memória para esse objeto.   | 
+
+|5. **Herança**: A herança é um recurso em Java que permite que uma classe (chamada de classe filha ou subclass) herde propriedades e comportamentos de outra classe (chamada de classe pai ou superclass). Isso ajuda a economizar tempo e esforço do desenvolvedor na criação de classes.|
+
+|6. **Polimorfismo**: É uma característica que permite que um objeto se comporte de várias maneiras. Isso é realizado usando métodos com o mesmo nome, mas com diferentes parâmetros.|
 
 <div id='id5' />
 
-Editores Java 
-IDE ou Ambiente de Desenvolvimento Integrado, fornece todas as ferramentas e facilidades comuns para auxiliar na programação, como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEsestão descritos abaixo:
-Bloco de notas 
-Netbeans − É um IDE Java de código aberto e gratuito que pode ser baixado do www.netbeans.org/index.html.
-Eclipse − É também um IDE Java desenvolvido pela comunidade de código aberto Eclipse e pode ser baixado do www.eclipse.org.
-
-
+### Editores Java 
+**IDE ou Ambiente de Desenvolvimento Integrado** , fornece  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEs estão descritos abaixo:
+- **Bloco de notas** -O Notepad (Bloco de notas) é um editor de texto simples incluído no  Microsoft Windows. 
+- **Netbeans** − É um IDE Java de código aberto e gratuito que pode ser baixado do www.netbeans.org/index.html.
+- **Eclipse** − É um IDE Java desenvolvido pela comunidade de código aberto Eclipse e pode ser baixado do www.eclipse.org.
+- **VSCode** : utilizado para editar códigos de desenvolvimento para aplicações web, o download do site é no endereço https://code.visualstudio.com.
  
 ## Sintaxe Básica em Java
 A sintaxe é o conjunto de regras que definem como um programa  é escrito e interpretado.
-``bash
-Diferenciação de maiúsculas e minúsculas − Java diferencia maiúsculas de minúsculas.
-Nomes de classe − a primeira letra deve estar em maiúsculas. Se várias palavras forem usadas para formar um nome da classe, a primeira letra de cada palavra interna deve estar em maiúsculas.Exemplo: PrimeiroPrograma
-Nomes de método − Todos os nomes de método devem começar com uma letra minúscula. Se várias palavras forem usadas para formar o nome do método, a primeira letra de cada palavra interna deve estar em maiúsculas. Exemplo: public void myMethodName()
-Nome do arquivo do programa −  deve corresponder exatamente ao nome da classe.Exemplo: Suponha que 'PrimeiroPrograma' é o nome da classe. Em seguida, o arquivo deve ser salvo como 'PrimeiroPrograma.java'
-public static void main(String args[]) − O processamento do programa Java começa a partir do método main() que é uma parte obrigatória de todo programa Java.
-``
+
+**Diferenciação de maiúsculas e minúsculas** − Java diferencia maiúsculas de minúsculas.
+**Nomes de classe** − a primeira letra deve estar em maiúsculas. Se várias palavras forem usadas para formar um nome da classe, a primeira letra de cada palavra interna deve estar em maiúsculas.Exemplo: PrimeiroPrograma
+**Nomes de método** − Todos os nomes de método devem começar com uma letra minúscula. Se várias palavras forem usadas para formar o nome do método, a primeira letra de cada palavra interna deve estar em maiúsculas. Exemplo: public void myMethodName()
+**Nome do arquivo do programa** −  deve corresponder exatamente ao nome da classe.Exemplo: Suponha que 'PrimeiroPrograma' é o nome da classe. Em seguida, o arquivo deve ser salvo como 'PrimeiroPrograma.java'
+**public static void main(String args[])** − O processamento do programa Java começa a partir do método main() que é uma parte obrigatória de todo programa Java.
+
 
 1.Palavras-chave: são os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  
 
