@@ -20,11 +20,11 @@
 
 <div id='id1' />
 
- ## Definição
+ ## 1. Definição
 Java é uma linguagem de programação orientada a objetos e um conjunto de bibliotecas de classes (frameworks). É uma linguagem de programação de alto nível, robusta, orientada a objetos e segura em que utiliza uma máquina virtual(JVM-Java Virtual Machine) para execução de programas.
 <div id='id2' />
 
-## História
+## 2. História
 **Início (Década de 1990):** A linguagem de programação Java foi criada pela Sun Microsystems por uma equipe liderada por James Gosling.Inicialmente como parte de um projeto para desenvolver software para aparelhos, como televisões.
  **Java 1.0 (1996):** A primeira versão oficial do Java foi lançada em 1996. Apresentava recursos como classes e objetos, exceções,  e a  máquina virtual Java (JVM), que permitia que os programas Java fossem executados em várias plataformas.
 **Java 2 Platform (1998):** O lançamento da Java 2 Platform trouxe várias melhorias, incluindo a adição de bibliotecas de classes como Swing para criar interfaces gráficas de usuário (GUI), bem como a plataforma Enterprise Edition (Java EE) para o desenvolvimento de aplicativos corporativos.
@@ -34,17 +34,17 @@ Java é uma linguagem de programação orientada a objetos e um conjunto de bibl
 
 <div id='id3' />
 
-## Instalando o Java Development Kit (JDK)
+##  3. Instalando o Java Development Kit (JDK)
 Instalação do JDK (Java Development Kit): O JDK é composto de ferramentas de software para desenvolver aplicações em Java. A instalação do JDK, no ambiente de desenvolvimento, é feita através do download do sotware utilizando a plataforma da Oracle, seguindo as intruções para cada sistema operacional. 
 Aparecerá na tela a caixa de diálogo para download do arquivo. Basta apartar o botão “Executar” e clicar em “Instalar” para aceitar os termos de licença e concluir a instalação.
 
 <div id='id4' />
  
-## Configurando o Ambiente de Desenvolvimento
+## 4. Configurando o Ambiente de Desenvolvimento
 Configuração do ambiente: Após a instalação, é necessário configurar as variáveis de ambiente. No Windows, vá em "Painel de Controle" > "Sistema" > "Configurações Avançadas do Sistema" > "Variáveis de Ambiente" e adicione o caminho para o diretório bin do JDK na variável PATH. No Linux ou macOS, você pode configurar o PATH no arquivo ~/.bashrc ou ~/.bash_profile.
 
 Verifique a instalação: Abra um terminal ou prompt de comando e digite java -version e javac -version para verificar se a instalação foi bem-sucedida.
-
+## 5. Fundamentos
 | **Fundamentos**                                                                                               | 
 | ----------------------------------------------------------------------------------------------------------------| 
 | 1. **Plataforma Java**: Consiste em duas partes principais –  o kit de desenvolvimento Java (JDK) necessário para desenvolver aplicativos Java, e o o ambiente de tempo de execução Java (JRE). O JRE é responsável por executar aplicativos Java.   | 
@@ -56,14 +56,15 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
 <div id='id5' />
 
-### Editores Java 
+### 6. Editores Java 
 **IDE ou Ambiente de Desenvolvimento Integrado** , fornece  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEs estão descritos abaixo:
 - **Bloco de notas** -O Notepad (Bloco de notas) é um editor de texto simples incluído no  Microsoft Windows. 
 - **Netbeans** − É um IDE Java de código aberto e gratuito que pode ser baixado do www.netbeans.org/index.html.
 - **Eclipse** − É um IDE Java desenvolvido pela comunidade de código aberto Eclipse e pode ser baixado do www.eclipse.org.
 - **VSCode** : utilizado para editar códigos de desenvolvimento para aplicações web, o download do site é no endereço https://code.visualstudio.com.
+ ## 7.Sintaxe Básica
  
-| **Sintaxe Básica em Java**  |
+| **Sintaxe Java**  |
 | -----------------------------|
 | **Diferenciação de maiúsculas e minúsculas** − Java diferencia maiúsculas de minúsculas.  |
 | **Nomes de classe** − a primeira letra deve estar em maiúsculas. Se várias palavras forem usadas para formar um nome da classe, a primeira letra de cada palavra interna deve estar em maiúsculas.Exemplo: PrimeiroPrograma  |
@@ -71,7 +72,7 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 | **Nome do arquivo do programa** −  deve corresponder exatamente ao nome da classe.Exemplo: Suponha que 'PrimeiroPrograma' é o nome da classe. Em seguida, o arquivo deve ser salvo como 'PrimeiroPrograma.java'.|
 | **public static void main(String args[])** − O processamento do programa Java começa a partir do método main() que é uma parte obrigatória de todo programa Java.|
 
-## Identificadores Java
+## 8. Identificadores Java
 Todos os componentes Java requerem nomes. Os nomes usados para classes, variáveis e métodos são chamados de identificadores.
 Em Java, há vários pontos a serem lembrados sobre identificadores. 
 
@@ -82,13 +83,13 @@ Em Java, há vários pontos a serem lembrados sobre identificadores.
 | - Uma palavra-chave não pode ser usada como um identificador.  |
 | - Diferenciam maiúsculas de minúsculas. |
 
- ## Palavras-chave 
+ ## 9. Palavras-chave 
 São os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  São elas:
 abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,  
 double, else, enum, extends, final, finally, float, for, goto, if, implements, import, int,interface, long, native, new, null, package, private, protected, public, return, short, static,	strictfp, super, switch, synchronized, this, throw, transient, try, void, volatile, while  
 
 
-## Comentários em Java
+## 10. Comentários em Java
 
 **Comentários de linha única**: Marcados com duas barras invertidas(//) 
 
