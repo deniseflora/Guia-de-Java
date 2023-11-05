@@ -162,8 +162,28 @@ boolean estudante = true;
   
 ## 13.Estruturas de Controle 
 
+Java suporta estruturas de controle como condicionais e loops. 
+Exemplo de **estrutura condicional**:
 
-Referências
+```
+int numero = 10;
+if (numero > 5) {
+    System.out.println("O número é maior que 5");
+} else {
+    System.out.println("O número é menor ou igual a 5");
+}
+```
+Exemplo de **Loops**:
+
+Java oferece estruturas de loop, como **for, while e do-while**, para repetir a execução de código. Aqui está um exemplo de um loop for:
+
+```
+for (int i = 0; i < 5; i++) {
+    System.out.println("Contagem: " + i);
+```
+<div id='id14' />
+
+## 14. Referências
 
 1. [A Brief History of Java Programming Language](https://www.theknowledgeacademy.com/)
 
