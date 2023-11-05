@@ -62,7 +62,7 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
 <div id='id5' />
   
-## Editores Java : 
+## 5. Editores Java : 
 
 Os editores, IDE ou Ambiente de Desenvolvimento Integrado fornecem  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais estão descritos abaixo:
 
