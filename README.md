@@ -80,8 +80,7 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
  **Palavras-chave** : são os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  
 
-| **Lista de Palavras-Chave**                                      |
-|------------|------------|-------------|-----------|--------------|
+|:------------: | :-----------: | :-------------: |:-----------: |:--------------: |
 |  abstract  |	assert    |	boolean     |	break      |	byte       |
 | case	      | catch	    |char        |	class      | 	const      |
 |continue	    | default	  |do	         |  double	    |  else      |
