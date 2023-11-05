@@ -16,7 +16,7 @@
 
 💻: 4. [Configurando o Ambiente de Desenvolvimento](#id4)
   
-🖋️: 5. [Editores Java, IDE ou Ambiente de Desenvolvimento](id#5)
+🖋️: 5. [Editores Java](#id5)
 
 📚:6. [Fundamentos](id#6)
 
