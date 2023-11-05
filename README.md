@@ -22,7 +22,7 @@
 
 🔖:7. [Sintaxe Básica em Java](id#7)
 
-🚀ket: 8. [Identificadores](id#8)
+🚀: 8. [Identificadores](id#8)
 
 🔑: 9. [Palavras-chave](id#9) 
 
@@ -62,9 +62,10 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
 <div id='id5' />
   
-  ## 5. Editores Java 
+## Editores Java (IDE ou Ambiente de Desenvolvimento Integrado): 
 
-**IDE ou Ambiente de Desenvolvimento Integrado**: fornece  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEs estão descritos abaixo:
+Fornece  ferramentas e facilidadespara como editor de código-fonte, ferramentas de compilação e depuradores. Os principais IDEs estão descritos abaixo:
+
 - **Bloco de notas** -O Notepad (Bloco de notas) é um editor de texto simples incluído no  Microsoft Windows. 
 - **Netbeans** − É um IDE Java de código aberto e gratuito que pode ser baixado do www.netbeans.org/index.html.
 - **Eclipse** − É um IDE Java desenvolvido pela comunidade de código aberto Eclipse e pode ser baixado do www.eclipse.org.
