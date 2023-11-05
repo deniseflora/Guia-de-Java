@@ -16,9 +16,18 @@
 
 💻: 4. [Configurando o Ambiente de Desenvolvimento](#id4)
   
-🖋️: 5. [Sintaxe Básica em Java](id#5)
+🖋️: 5. [Editores Java ](id#5)
 
-<div id='id1' />
+📚:6. [Fundamentos](id#6)
+
+🔖:7. [Sintaxe Básica em Java](id#7)
+
+🚀ket: 8. [Identificadores](id#8)
+
+🔑: 9. [Palavras-chave](id#9) 
+
+⬅️: 10. [Comentários em Java](id#10) 
+
 
  ## 1. Definição
 Java é uma linguagem de programação orientada a objetos e um conjunto de bibliotecas de classes (frameworks). É uma linguagem de programação de alto nível, robusta, orientada a objetos e segura em que utiliza uma máquina virtual(JVM-Java Virtual Machine) para execução de programas.
@@ -56,7 +65,9 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 - **VSCode** : utilizado para editar códigos de desenvolvimento para aplicações web, o download do site é no endereço https://code.visualstudio.com.
 
 <div id='id5' />
-## 6.Fundamentos                                                                                            | 
+  
+## 6. Fundamentos    
+  |                                                                      | 
 | ----------------------------------------------------------------------------------------------------------------| 
 | 1. **Plataforma Java**: Consiste em duas partes principais –  o kit de desenvolvimento Java (JDK) necessário para desenvolver aplicativos Java, e o o ambiente de tempo de execução Java (JRE). O JRE é responsável por executar aplicativos Java.   | 
 |  2. **Pacote**: Os pacotes são o mecanismo usado para agrupar classes relacionadas em Java. Eles são usados para organizar melhor o código e evitar conflitos de nome.  | 
@@ -92,6 +103,7 @@ Em Java, há vários pontos a serem lembrados sobre identificadores.
 <div id='id8' />
   
  ## 9. Palavras-chave 
+ 
 São os **identificadores** que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  São elas:
 `` abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,  
 double, else, enum, extends, final, finally, float, for, goto, if, implements, import, int,interface, long, native, new, null, package, private, protected, public, return, short, static,	strictfp, super, switch, synchronized, this, throw, transient, try, void, volatile, while  .``
@@ -112,5 +124,6 @@ double, else, enum, extends, final, finally, float, for, goto, if, implements, i
 ## Referências
 
 1.[A Brief History of Java Programming Language](https://www.theknowledgeacademy.com/)
+2.[Java Quick Guide](https://www.tutorialspoint.com/java/java_quick_guide.htm)https://www.tutorialspoint.com/java/java_quick_guide.htm)
 
 
