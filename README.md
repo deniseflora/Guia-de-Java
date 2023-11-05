@@ -28,7 +28,12 @@
 
 ⬅️: 10. [Comentários em Java](#id9) 
 
-🚀:11. [Primeiro Programa](#id10) 
+🚀: 11. [Primeiro Programa](#id10) 
+
+⚒️: 12. [Variáveis e Tipos de Dados](#id12)
+
+🛂: 13. [Estruturas de Controle](#id13)
+     
 
 
 <div id='id1' />
@@ -130,18 +135,35 @@ double, else, enum, extends, final, finally, float, for, goto, if, implements, i
 
 ## 11. Primeiro Programa em Java - 
 
-Criamos um arquivo Java chamado **HelloWorld**, e usamos o seguinte código para imprimir **"Hello World"** na tela: 
+Criamos um arquivo Java chamado **HelloWorld**, e usamos o seguinte código para imprimir **Hello, World!** na tela: 
 
 ```
-public class Main {
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
 ```
 O nome da classe é o nome do  arquivo chamado **HelloWorld**. O ***public*** - acesso público, ***class*** -classe e ***Hello*** - nome do  arquivo. O ***static*** - acesso sem instanciar a classe, ***void*** -não retorna nada e ***main*** - ponto de entrada do programa. O ***System.out*** - objeto de saída padrão, o ***println*** -mostrar algo escrito na tela. ***System.out.println()***: Esta linha imprime o texto "Hello, World!" no console.
 
-## Referências
+<div id='id12' />
+  
+## 12. Variáveis e Tipos de Dados
+Java tem vários tipos de dados, incluindo inteiros, ponto flutuante, caracteres e booleanos. Podemos declarar variáveis para armazenar valores. 
+Por exemplo:
+`` 
+int idade = 25;
+double altura = 1.75;
+char genero = 'M';
+boolean estudante = true;
+``
+<div id='id13' />
+
+  
+## 13.Estruturas de Controle 
+
+
+Referências
 
 1. [A Brief History of Java Programming Language](https://www.theknowledgeacademy.com/)
 
