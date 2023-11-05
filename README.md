@@ -21,11 +21,12 @@
 🖋️: 6. [Sintaxe Básica em Java](id#6)
 
 <div id='id1' />
- 
+
  ## Definição
 Java é uma linguagem independente de plataforma e orientada a objetos que é amplamente utilizada em todo o mundo. 
 
-div id='id2' />
+<div id='id2' />
+
 ## História
 **Início (Década de 1990):** A linguagem de programação Java foi criada pela Sun Microsystems por uma equipe liderada por James Gosling.Inicialmente como parte de um projeto para desenvolver software para aparelhos, como televisões.
  **Java 1.0 (1996):** A primeira versão oficial do Java foi lançada em 1996. Apresentava recursos como classes e objetos, exceções,  e a  máquina virtual Java (JVM), que permitia que os programas Java fossem executados em várias plataformas.
