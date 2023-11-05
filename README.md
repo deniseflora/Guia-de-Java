@@ -78,20 +78,13 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 | - Uma palavra-chave não pode ser usada como um identificador.  |
 | - Diferenciam maiúsculas de minúsculas. |
 
- **Palavras-chave** : são os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  
+``
+ **Palavras-chave** : são os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  São elas:
+abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,          
+double, else, enum, extends, final, finally, float, for, goto, if, implements, import, int,interface, long, native, new, null, package, private, protected, public, return, short, static,	
+strictfp, super, switch, synchronized, this, throw, transient, try, void, volatile, while  
 
-
-|  abstract   |	assert    |	boolean    |	break      |	byte       |
-|  case	      | catch	    |  char        |	class      | 	const      |
-|  continue	    | default	  |  do	         |  double	    |  else      |
-|  enum	        | extends 	|  final	     | finally     |	float      |
-|  for        	|  goto	    |  if	         |  implements	| import     |
-|  int	        |  interface	 | long	      |  native       |  new          |
-|  null 	        |  package	   |  private	    |  protected	    |public    |
-|  return      |	short	     | static	    | strictfp     |	super      |
-|  switch	     | synchronized|this       |  	throw    	|    transient	 |
-|  try	         | void      |	volatile |	while       |              |
-
+``
 ### Comentários em Java
 **Comentários de linha única**: Marcados com duas barras invertidas(//) 
 **Comentários de várias linhas**: Marcados por uma tag inicial(/*) e uma tag final(*/)
