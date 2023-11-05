@@ -6,7 +6,7 @@
 
 ## Um Tutorial para Iniciantes
 
-### Introdução a Linguagem Java
+## Introdução a Linguagem Java
 
 📖: 1. [Definição](#id1)  
 
@@ -71,30 +71,32 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 | **Nome do arquivo do programa** −  deve corresponder exatamente ao nome da classe.Exemplo: Suponha que 'PrimeiroPrograma' é o nome da classe. Em seguida, o arquivo deve ser salvo como 'PrimeiroPrograma.java'.|
 | **public static void main(String args[])** − O processamento do programa Java começa a partir do método main() que é uma parte obrigatória de todo programa Java.|
 
-### Identificadores Java
+## Identificadores Java
 Todos os componentes Java requerem nomes. Os nomes usados para classes, variáveis e métodos são chamados de identificadores.
 Em Java, há vários pontos a serem lembrados sobre identificadores. 
 
+|Identificadores                                                                   |
 |----------------------------------------------------------------------------|
 | - Devem começar com uma letra (A a Z ou a a z), caractere de moeda ($) ou um sublinhado (_).  |
 | - Após o primeiro caractere, os identificadores podem ter qualquer combinação de caracteres.  |
 | - Uma palavra-chave não pode ser usada como um identificador.  |
 | - Diferenciam maiúsculas de minúsculas. |
 
- **Palavras-chave** : são os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  
-    São os seguintes : abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,   
+ ## Palavras-chave 
+      São os identificadores que têm significado especial para o compilador. Estes não podem ser usados para nomear variáveis, classes, funções ou métodos. São palavras reservadas.  
+   abstract, assert, boolean, break, byte, case, catch, char, class, const, continue, default, do,   
 double, else, enum, extends, final, finally, float, for, goto, if, implements, import, int,interface, long, native, new, null, package, private, protected, public, return, short, static,	
 strictfp, super, switch, synchronized, this, throw, transient, try, void, volatile, while  
 
 
-### Comentários em Java
+## Comentários em Java
 **Comentários de linha única**: Marcados com duas barras invertidas(//) 
 **Comentários de várias linhas**: Marcados por uma tag inicial(/*) e uma tag final(*/)
 
-### Java - Tipos de Variáveis
+## Java - Tipos de Variáveis
 
 
-### Referências
+## Referências
 
 1.[A Brief History of Java Programming Language](https://www.theknowledgeacademy.com/)
 
