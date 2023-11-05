@@ -10,13 +10,14 @@
 
 📖: 1. [Definição](#id1)  
 
-*** Definição<a definicao="id1"></a>
+** Definição<a definicao="id1"></a>
 
 wwwwwwwwwwwwwwwwwwwww
 wwwwwwwwwwwww
+
 🏛️: 2. [História](#id2)
 
-*** História<a historia="id2"></a>
+** História<a historia="id2"></a>
 
 💻: 3. [Configurando o Ambiente de Desenvolvimento](#id3)
  
