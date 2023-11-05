@@ -9,7 +9,7 @@
 ### Introdução a Linguagem Java
 
 📖: 1. [Definição](#id1)
-Definição<definicao="id1"></a>
+1. Definição<definicao="id1"></a>
 
 🏛️: 2. [História](#id2)
 
