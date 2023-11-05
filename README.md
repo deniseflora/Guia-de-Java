@@ -24,9 +24,9 @@
 
 🚀: 8. [Identificadores](#id8)
 
-🔑: 9. [Palavras-chave](id#9) 
+🔑: 9. [Palavras-chave](#id9)
 
-⬅️: 10.[Comentários em Java](id#10) 
+⬅️: 10. [Comentários em Java](#id9) 
 
 <div id='id1' />
   
