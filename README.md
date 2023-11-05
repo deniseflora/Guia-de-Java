@@ -75,7 +75,6 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 Todos os componentes Java requerem nomes. Os nomes usados para classes, variáveis e métodos são chamados de identificadores.
 Em Java, há vários pontos a serem lembrados sobre identificadores. 
 
-| **Identificadores Java**                                                  |
 |----------------------------------------------------------------------------|
 | - Devem começar com uma letra (A a Z ou a a z), caractere de moeda ($) ou um sublinhado (_).  |
 | - Após o primeiro caractere, os identificadores podem ter qualquer combinação de caracteres.  |
