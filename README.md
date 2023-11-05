@@ -83,7 +83,7 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
 <div id='id7' />
   
- ## 7. Sintaxe Básica
+ ## 7. Sintaxe Básica em Java
 |                              |
 | -----------------------------|
 | **Diferenciação de maiúsculas e minúsculas** − Java diferencia maiúsculas de minúsculas.  |
@@ -94,7 +94,7 @@ Verifique a instalação: Abra um terminal ou prompt de comando e digite java -v
 
 <div id='id8' />
   
-## 8. Identificadores Java
+## 8. Identificadores 
 
 Todos os componentes Java requerem nomes. Os nomes usados para classes, variáveis e métodos são chamados de identificadores.
 Em Java, há vários pontos a serem lembrados sobre identificadores. 
