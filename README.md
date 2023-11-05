@@ -125,6 +125,6 @@ double, else, enum, extends, final, finally, float, for, goto, if, implements, i
 
 1. [A Brief History of Java Programming Language](https://www.theknowledgeacademy.com/)
 
-2. [Java Quick Guide]https://www.tutorialspoint.com/java/java_quick_guide.htm)https://www.tutorialspoint.com/java/java_quick_guide.htm)
+2. [Java Quick Guide](https://www.tutorialspoint.com/java/java_quick_guide.htm)https://www.tutorialspoint.com/java/java_quick_guide.htm)
 
 
